@@ -1,0 +1,4 @@
+2021/12/03 16:54:56.578050 E:/gogogo/go_practice/base_package_practice/logger1_practice.go:39: 这是一个普通的日志
+[pprof]2021/12/03 16:54:56.604209 E:/gogogo/go_practice/base_package_practice/logger1_practice.go:41: 这也是一个普通的日志
+2021/12/03 16:56:47.854134 E:/gogogo/go_practice/base_package_practice/logger1_practice.go:39: 这是一个普通的日志
+[pprof]2021/12/03 16:56:47.880652 E:/gogogo/go_practice/base_package_practice/logger1_practice.go:41: 这也是一个普通的日志
